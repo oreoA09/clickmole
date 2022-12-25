@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import mole from '../public/images/mole.png';
 
 function Mole(props){
 
@@ -13,7 +14,7 @@ function Mole(props){
     
     return (
         <div>
-            <img src="../images/mole.png" alt="Mole" width={200} onClick={props.moleClicked}/>
+            <img src={mole} alt="Mole" width={200} onClick={props.moleClicked}/>
         </div>
     )
 }

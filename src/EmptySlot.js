@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import moleHill from '../public/images/molehill.png';
 
 
 function EmptySlot(props) {
@@ -12,7 +13,7 @@ function EmptySlot(props) {
 
     return(
         <div>
-            <img src="../images/molehill.png" alt="Mole Hill" width={200} />
+            <img src={moleHill} alt="Mole Hill" width={200} />
         </div>
     )
 }
