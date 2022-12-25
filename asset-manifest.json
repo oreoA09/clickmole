@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clickmole/static/css/main.5439436e.css",
+    "main.js": "/clickmole/static/js/main.b03f1011.js",
+    "static/media/bash.mp3": "/clickmole/static/media/bash.9796766c415950b376f7.mp3",
+    "static/media/bell.mp3": "/clickmole/static/media/bell.46c8de69b3374dc8b23a.mp3",
+    "index.html": "/clickmole/index.html",
+    "main.5439436e.css.map": "/clickmole/static/css/main.5439436e.css.map",
+    "main.b03f1011.js.map": "/clickmole/static/js/main.b03f1011.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5439436e.css",
+    "static/js/main.b03f1011.js"
+  ]
+}
